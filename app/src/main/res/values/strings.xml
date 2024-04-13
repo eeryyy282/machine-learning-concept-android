@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MachineLearningConcept</string>
+    <string name="machine_learning_concept">Konsep Dasar\nMachine Learning</string>
+    <string name="draw_object">Menggambar Object di Android</string>
 </resources>
